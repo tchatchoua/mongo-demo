@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoPlayByPlay", "MongoPlayByPlay.csproj", "{491A64C3-53E8-4265-983A-28F0300CE17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491A64C3-53E8-4265-983A-28F0300CE17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491A64C3-53E8-4265-983A-28F0300CE17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491A64C3-53E8-4265-983A-28F0300CE17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491A64C3-53E8-4265-983A-28F0300CE17D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B041FC5-1593-438B-8990-BCEC34C5C2AC}
+	EndGlobalSection
+EndGlobal

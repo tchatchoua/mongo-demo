@@ -1,0 +1,17 @@
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.exe
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.AssemblyInfoInputs.cache
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.AssemblyInfo.cs
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.deps.json
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.runtimeconfig.json
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.runtimeconfig.dev.json
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.dll
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoPlayByPlay.pdb
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\github_source\mongo-demo\ConsoleApp1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.csprojAssemblyReference.cache
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.csproj.CoreCompileInputs.cache
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.csproj.CopyComplete
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.dll
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.pdb
+C:\github_source\mongo-demo\ConsoleApp1\obj\Debug\netcoreapp3.1\MongoPlayByPlay.genruntimeconfig.cache
